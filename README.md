@@ -1,7 +1,7 @@
 
    👋 Hi, I’m Fathima A M
    
-    👀 I’m interested in coding.
+   ### 👀 I’m interested in coding.
     
     🌱 I’m currently doing MCA.
     
