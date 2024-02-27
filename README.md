@@ -1,4 +1,9 @@
-### Hi there 👋
+  ###  👋 Hi, I’m Fathima A M
+  ###  👀 I’m interested in coding.
+  ###  🌱 I’m currently doing MCA.
+  ###  💞️ I’m looking to collaborate on ...
+  ###  📫 How to reach me ...
+
 
 <!--
 **FathimaAM/FathimaAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
